@@ -1,2 +1,2 @@
 # Microsoft-Clone
-responsive microsot clone
+Responsive https://www.microsoft.com/en-in Clone
